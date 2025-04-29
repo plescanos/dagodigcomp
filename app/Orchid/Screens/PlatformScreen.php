@@ -54,7 +54,7 @@ class PlatformScreen extends Screen
     {
         return [
             Layout::view('platform::partials.update-assets'),
-            Layout::view('landing.landing-page'),
+            Layout::view('landing.welcome'),
         ];
     }
 }

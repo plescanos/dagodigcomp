@@ -22,5 +22,5 @@ yarn-error.log
 /.vscode
 /.zed
 .htaccess
-DS_Store
+.DS_Store
 .well-known
